@@ -1,0 +1,398 @@
+body{
+    background-color: black;
+}
+*{
+    box-sizing: border-box;
+}
+.icon:hover{
+    color: white;
+}
+.navbar-brand{
+    color:black;
+    font-size: 34px;
+    font-weight: bold;
+}
+.nav-link{
+    color:black;
+}
+.image{
+    max-width: 100%;
+}
+.head{
+    color: orangered;
+    text-align: center;
+    text-shadow: 2px 2px 5px white;
+    font-size: xx-large;
+    font-family: 'Playfair Display', serif;
+}
+.card{
+    /* display:inline-block; */
+    
+    align-items: center;
+    justify-content: center;
+}
+.container1{
+    display: flex;
+    /* justify-content: center; */
+    /* align-content: flex-start; */
+    background-image: url("https://i.pinimg.com/474x/84/fa/27/84fa27f468e1daf21ff17f505d56feec.jpg");
+   /* background-size: 300px ; */
+}
+.c1{
+        background-image: url("https://i.pinimg.com/736x/d3/6a/bf/d36abf0c6c92978c2278764fa5c4e59a.jpg");
+
+    
+
+
+    
+} 
+.c1{
+    border-radius: 6px;
+}
+.head2{
+    color: orangered;
+    text-align: center;
+    text-shadow: 2px 2px 5px white;
+    font-size: xx-large;
+    font-family: 'Playfair Display', serif;
+
+}
+.container2{
+    background-color: black;
+    display: flex;
+/* margin-left: 20%; */
+justify-content: center;
+display: flex;
+}
+
+.write{
+    color: orangered;
+    text-align: center;
+    text-shadow: 2px 2px 5px white;
+    font-size: xx-large;
+    font-family: 'Playfair Display', serif;
+}
+.yes:hover{
+    color: rgb(164, 145, 145);
+}
+.write2{
+    color: orangered;
+    text-align: center;
+    text-shadow: 2px 2px 5px white;
+    font-size: xx-large;
+    font-family: 'Playfair Display', serif;
+}
+.write3{
+    color: orangered;
+    text-align: center;
+    text-shadow: 2px 2px 5px white;
+    font-size: xx-large;
+    font-family: 'Playfair Display', serif;
+}
+.demo{
+    float:"right";
+    justify-content: flex-end;
+}
+.write4{
+    color: orangered;
+    text-align: center;
+    text-shadow: 2px 2px 5px white;
+    font-size: xx-large;
+    font-family: 'Playfair Display', serif;
+}
+.write5{
+    color: orangered;
+    text-align: center;
+    text-shadow: 2px 2px 5px white;
+    font-size: xx-large;
+    font-family: 'Playfair Display', serif;
+}
+.tagline{
+    text-align: center;
+    color: white;
+    font-size: x-large;
+}
+/* .result{
+    background-image: ;
+} */
+.inspire{
+    color:orangered;
+    background-color: white;
+}
+.write6{
+    color: orangered;
+    text-align: center;
+    text-shadow: 2px 2px 5px black;
+    font-size: xx-large;
+    font-family: 'Playfair Display', serif;
+}
+.write7{
+    color: orangered;
+    text-align: center;
+    text-shadow: 2px 2px 5px white;
+    font-size: xx-large;
+    font-family: 'Playfair Display', serif;
+}
+.write8{
+    color: orangered;
+    text-align: center;
+    text-shadow: 2px 2px 5px white;
+    font-size: xx-large;
+    font-family: 'Playfair Display', serif;
+}
+.write9{
+    color: black;
+    text-align: center;
+    text-shadow: 2px 2px 5px orangered;
+    font-size: xx-large;
+    font-family: 'Playfair Display', serif;
+}
+.write10{
+    color: black;
+    text-align: center;
+    text-shadow: 2px 2px 5px orangered;
+    font-size: x-large;
+    font-family: 'Playfair Display', serif;
+    
+}
+.impact{
+    background-image: url("https://preview.redd.it/oraedqqvcz341.png?width=640&crop=smart&auto=webp&s=b6a3dd12aed11ca16495adc6c23f6a3d84d9f0cc");
+}
+.write11{
+    
+        color: black;
+        text-align: center;
+        text-shadow: 3px 3px 6px white;
+        font-size: xx-large;
+        font-family: 'Playfair Display', serif;
+}
+.write12{
+    color: black;
+    text-align: center;
+    text-shadow: 2px 2px 3px white;
+    font-size: x-large;
+    font-family: 'Playfair Display', serif;
+}
+.help{
+    background-image: url("https://www.popsci.com/uploads/2021/07/08/Android-Live-Background.jpeg?auto=webp&width=1440&height=1080");
+    z-index: 4px;
+}
+.container5{
+    justify-content: center;
+    display: flex;
+}
+.container7{
+    justify-content: center;
+    display: flex;
+}
+.container6{
+    background-color: rgb(217, 88, 41);
+    border-radius: 482px;
+}
+.write13{
+    
+    color: orangered;
+    text-align: center;
+    text-shadow: 3px 3px 6px black;
+    font-size: xx-large;
+    font-family: 'Playfair Display', serif;
+}
+.write14{
+    color: orangered;
+    text-align: center;
+    text-shadow: 2px 2px 3px black;
+    font-size: x-large;
+    font-family: 'Playfair Display', serif;
+}
+.container8{
+    background-color: black;
+}
+.write15{
+    color: white;
+    font-family: 'Playfair Display', serif;
+    
+}
+.container11{
+    background-color: black;
+}
+
+.container12{
+    display:block;    /* justify-content: flex-; */
+    background-color: black;
+} 
+.footer{
+   background-color:orangered;
+}
+footer {
+    position: fixed;
+    bottom: 0;
+}
+
+@media (max-height:800px) {
+    footer {
+        position: static;
+    }
+    header {
+        padding-top: 40px;
+    }
+}
+
+.footer-distributed {
+    background-color: #2d2a30;
+    box-sizing: border-box;
+    width: 100%;
+    text-align: left;
+    font: bold 16px sans-serif;
+    padding: 50px 50px 60px 50px;
+    margin-top: 80px;
+}
+
+.footer-distributed .footer-left, .footer-distributed .footer-center, .footer-distributed .footer-right {
+    display: inline-block;
+    vertical-align: top;
+}
+
+/* Footer left */
+
+.footer-distributed .footer-left {
+    width: 30%;
+}
+
+.footer-distributed h3 {
+    color: #ffffff;
+    font: normal 36px 'Cookie', cursive;
+    margin: 0;
+}
+
+
+.footer-distributed h3 span {
+    color: #e0ac1c;
+}
+
+/* Footer links */
+
+.footer-distributed .footer-links {
+    color: #ffffff;
+    margin: 20px 0 12px;
+}
+
+.footer-distributed .footer-links a {
+    display: inline-block;
+    line-height: 1.8;
+    text-decoration: none;
+    color: inherit;
+}
+
+.footer-distributed .footer-company-name {
+    color: #8f9296;
+    font-size: 14px;
+    font-weight: normal;
+    margin: 0;
+}
+
+/* Footer Center */
+
+.footer-distributed .footer-center {
+    width: 35%;
+}
+
+.footer-distributed .footer-center i {
+    background-color: #33383b;
+    color: #ffffff;
+    font-size: 25px;
+    width: 38px;
+    height: 38px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 42px;
+    margin: 10px 15px;
+    vertical-align: middle;
+}
+
+.footer-distributed .footer-center i.fa-envelope {
+    font-size: 17px;
+    line-height: 38px;
+}
+
+.footer-distributed .footer-center p {
+    display: inline-block;
+    color: #ffffff;
+    vertical-align: middle;
+    margin: 0;
+}
+
+.footer-distributed .footer-center p span {
+    display: block;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 2;
+}
+
+.footer-distributed .footer-center p a {
+    color: orangered;
+    text-decoration: none;
+    ;
+}
+
+/* Footer Right */
+
+.footer-distributed .footer-right {
+    width: 30%;
+}
+
+.footer-distributed .footer-company-about {
+    line-height: 20px;
+    color: #92999f;
+    font-size: 13px;
+    font-weight: normal;
+    margin: 0;
+}
+
+.footer-distributed .footer-company-about span {
+    display: block;
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.footer-distributed .footer-icons {
+    margin-top: 25px;
+}
+
+.footer-distributed .footer-icons a {
+    display: inline-block;
+    width: 35px;
+    height: 35px;
+    cursor: pointer;
+    background-color: #33383b;
+    border-radius: 2px;
+    font-size: 20px;
+    color: #ffffff;
+    text-align: center;
+    line-height: 35px;
+    margin-right: 3px;
+    margin-bottom: 5px;
+}
+
+.footer-distributed .footer-icons a:hover {
+    background-color: orangered;
+    
+
+}
+
+.footer-links a:hover {
+    color: orangered;
+}
+
+@media (max-width: 880px) {
+    .footer-distributed .footer-left, .footer-distributed .footer-center, .footer-distributed .footer-right {
+        display: block;
+        width: 100%;
+        margin-bottom: 40px;
+        text-align: center;
+    }
+    .footer-distributed .footer-center i {
+        margin-left: 0;
+    }
+}       
